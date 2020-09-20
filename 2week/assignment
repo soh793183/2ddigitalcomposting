@@ -1,0 +1,13 @@
+What is digital compositing?
+로토스코핑 - 영상 합성 방법. 인물과 배경 분리
+크로마키
+
+what is digital color?
+Hue, Saturation, Luminuns
+빛의 삼원색 R G B
+인쇄용 C M Y K
+
+What is alpha?
+알파채널 - 기본 채널에 추가로 설정. 이미지의 특정 영역을 마스크, 제어, 합성하는 채널. 흑과 백으로 구성
+R, G, B 세개의 빛을 합성해 이미지 생성. 이 세 채널 외 네 번째 채널 = 알파채널
+알파채널의 흰 부분만 표시, 검은 부분은 투명하게 표시되어 합성될 화면(배경)의 이미지 표시
